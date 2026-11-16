@@ -1,4 +1,4 @@
-#Smart Meter Energy Analytics Dashboard
+# Smart Meter Energy Analytics Dashboard
 
 An interactive dashboard built to analyze smart electricity meter telemetry, visualize consumer-wise consumption and detect real-world data-quality anomalies.
 
