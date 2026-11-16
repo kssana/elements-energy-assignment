@@ -17,7 +17,7 @@ An interactive dashboard built to analyze smart electricity meter telemetry, vis
 
 1. **Clone this repository to your computer:**
    ```bash
-   git clone <YOUR_GITHUB_REPO_URL>
+   git clone https://github.com/kssana/elements-energy-assignment.git
    cd Elements_Energy_Assignment
    ```
 
@@ -25,7 +25,7 @@ An interactive dashboard built to analyze smart electricity meter telemetry, vis
    ```bash
    npm install
    ```
-   *(This automatically installs all dependencies for the dashboard via our root script.)*
+   *(This automatically installs all dependencies for the dashboard)*
 
 3. **Start the local development server:**
    ```bash
