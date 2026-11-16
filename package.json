@@ -1,0 +1,13 @@
+{
+  "name": "elements-energy-assignment",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Elements Energy Technical Assignment - Task 2: Smart Meter Energy Analytics Dashboard",
+  "scripts": {
+    "postinstall": "npm --prefix dashboard install",
+    "install:dashboard": "npm --prefix dashboard install",
+    "dev": "npm --prefix dashboard run dev",
+    "build": "npm --prefix dashboard run build",
+    "start": "npm --prefix dashboard run dev"
+  }
+}
